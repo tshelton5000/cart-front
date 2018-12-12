@@ -1,0 +1,17 @@
+.cartDiv{
+  background-color: purple;
+  color: pink;
+  border-radius: 2%;
+}
+
+.productDiv{
+  background-color: pink;
+  color: purple;
+  border-radius: 3%;
+}
+
+.buttonStyle{
+  background-color: purple;
+  color: pink;
+  border-radius: 15%;
+}
